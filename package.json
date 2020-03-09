@@ -1,0 +1,28 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "_ansi-styles@4.2.1@ansi-styles": "^4.2.1",
+    "_chalk@3.0.0@chalk": "^3.0.0",
+    "_color-convert@2.0.1@color-convert": "^2.0.1",
+    "_color-name@1.1.4@color-name": "^1.1.4",
+    "_has-flag@4.0.0@has-flag": "^4.0.0",
+    "_supports-color@7.1.0@supports-color": "^7.1.0",
+    "ansi-styles": "^4.2.1",
+    "chalk": "^3.0.0",
+    "color-convert": "^2.0.1",
+    "color-name": "^1.1.4",
+    "etag": "^1.8.1",
+    "has-flag": "^4.0.0",
+    "pug": "^2.0.4",
+    "supports-color": "^7.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
